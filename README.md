@@ -4,7 +4,9 @@ Problem Statement : Create a PDF parser that reads a given file and pulls text a
 Problem: Project plans are usually shared as PDF files. The file has text and image content. We want to pull the image out and allow the embedded text to be labelled.
 
 
+
 Libraries Used:
+
 1.Pytesseract 0.2.6
 pip install pytesseract
 
