@@ -16,6 +16,6 @@ pip install Pillow==2.2.2
 3.Wand 0.5.4
 pip install Wand
 
-
-
+4.Ghostscript 
+https://www.ghostscript.com/download/gpdldnld.html
 
